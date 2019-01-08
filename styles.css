@@ -16,4 +16,6 @@ body{
 }
 #homeit {
   color: blue;
+  border: solid white 2px;
+  background-color: white;
 }
