@@ -19,3 +19,7 @@ body{
   border: solid white 2px;
   background-color: white;
 }
+#mex {
+  background-image: url("img/mexico.jpg");
+  background-size: cover;
+}
