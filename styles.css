@@ -9,3 +9,11 @@ body{
   background-image: url("img/hwater.jpeg");
   background-size: cover;
 }
+#ITALY {
+  background-image: url("img/italy.jpeg");
+  background-size: cover;
+  color: white;
+}
+#homeit {
+  color: blue;
+}
